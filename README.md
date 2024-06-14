@@ -6,4 +6,4 @@ Written in: C#
 Application type: GUI Application
 
 -----------------------------------------------------------
-https://github.com/St10375811/Prog_Part2.git 
+https://github.com/St10375811/PROG-POE-POE.git 
